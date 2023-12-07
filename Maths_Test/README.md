@@ -19,9 +19,7 @@ To generate an anonymous 4-letter unique user identifier, please enter:
 - the first two letters of your birth city.
 - the first two letters of your favorite vegetable.
 
-> [enter]
-
-Once you've generated your ID, proceed with the test.
+Once you've generated your ID and inputted your ID into the answer box, proceed with the test.
 
 3) TEST INSTRUCTIONS:
 
