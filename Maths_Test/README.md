@@ -32,7 +32,7 @@ Once you've generated your ID and inputted your ID into the answer box, proceed 
 
 To run the Mathematics Ability Test, execute the provided Python code. Ensure that you have the required dependencies installed. The code includes interactive elements, so make sure to run it in an environment that supports user input.
 
-# Example command to run the test
+> Example command to run the test
 python mathematics_ability_test.py
 
 5) RESULTS UPLOAD (OPTIONAL)
