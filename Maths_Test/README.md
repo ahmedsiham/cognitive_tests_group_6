@@ -1,3 +1,5 @@
+Since v1.0.0, the v2.0.0 file has had docstrings added as well as an extra parameter to collect data for.
+
 Mathematics Ability Test
 
 Welcome to the Mathematics Ability Test repository! This test assesses your mathematical abilities through a series of questions. Before proceeding, please take a moment to read the important information below.
