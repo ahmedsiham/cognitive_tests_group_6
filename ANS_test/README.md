@@ -22,13 +22,19 @@ To generate an anonymous 4-letter unique user identifier please enter:
 Once you've generated your ID and inputted your ID into the answer box, proceed with the test.
 
 TEST INSTRUCTIONS:
+
 The test consists of questions containg pictures with dots that will be presented for a really short time(0.75 seconds).
+
 You are required to enter your answers promptly, by answering which side of the picture had more dots.
+
 The test has a duration of 180 seconds (3 minutes).
+
 After the test, your score will be displayed.
 
-RUNNING THE TEST
-To run the ANS Test, execute the provided Python code. Ensure that you have the required dependencies installed. The code includes interactive elements, so make sure to run it in an environment that supports user input.
+RUNNING THE TEST:
+
+To run the ANS Test, execute the provided Python code. Ensure that you have the required dependencies installed. 
+The code includes interactive elements, so make sure to run it in an environment that supports user input.
 
 RESULTS UPLOAD (OPTIONAL)
 If you consented to data upload, your results will be sent to a Google Form.
