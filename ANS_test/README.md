@@ -3,6 +3,7 @@ ANS Test
 Welcome to the ANS Test repository! This test assesses your approximation of number through a series of questions. Before proceeding, please take a moment to read the important information below.
 
 DATA CONSENT INFORMATION:
+
 We may record your response data for educational teaching purposes and practicing data analysis and visualization. The data collected will be anonymized and stored in a public data repository.
 
 If you consent to the upload, please type "yes" in the box provided. If you choose not to provide consent, your test results will not be uploaded.
