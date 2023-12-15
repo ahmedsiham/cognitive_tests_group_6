@@ -1,7 +1,7 @@
 
 Memory Test
 
-Welcome to the Memory Test repository! This test assesses your short-term memory through a series of questions. Before proceeding, please take a moment to read the important information below.
+The purose of this test is to assess the short-term memory by showing several pictures that the participant has to memorize.
 
 DATA CONSENT INFORMATION:
 We may record your response data for educational teaching purposes and practicing data analysis and visualization. The data collected will be anonymized and stored in a public data repository.
@@ -23,7 +23,7 @@ TEST INSTRUCTIONS:
 The test consists of 6 different images shown for eithr 10 or 20 seconds. Then, there are following questions about the colour, shape or position of the objects presented.
 You are required to enter your answers promptly.
 The test consists of 32 questions in total.
-After the test, your score and average time per question will be displayed., as well as your score compared to the ditribution of all the results collected before.
+After the test, your score and average time per question will be displayed, as well as your score compared to the ditribution of all the results collected before.
 
 RUNNING THE TEST: 
 1) Run (execute) the Python code
