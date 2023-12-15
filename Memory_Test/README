@@ -32,6 +32,10 @@ RUNNING THE TEST:
 RESULTS UPLOAD (OPTIONAL)
 If you give a consent for uploading your score and personal data, your results will be sent to a Google Form.
 
+How the new code is different from that used for data collection:
+1) The original test had 6 images and 47 questions, which took more than 6 minutes to complete. Therfore, the improved version contains only 32 questions and 5 images.
+2) The updated version also shows the user a distribution graph at the end of the test with the comparison of their results with those of others.
+
 END
 
 Thank you for participating in the Memory test! If you encounter any issues or have questions, feel free to reach out to the test administrator via email karina.petrosian.22@ucl.ac.uk
