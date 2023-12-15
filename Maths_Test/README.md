@@ -1,4 +1,4 @@
-Since v1.0.0, the v2.0.0 file has had docstrings added as well as an extra parameter to collect data for.
+Since v2.0.0, the FINAL file has had a distribution graph added at the end to show comparison of performance against other participants.
 
 Mathematics Ability Test
 
