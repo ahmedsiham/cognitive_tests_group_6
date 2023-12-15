@@ -1,1 +1,37 @@
 
+Memory Test
+
+Welcome to the Memory Test repository! This test assesses your short-term memory through a series of questions. Before proceeding, please take a moment to read the important information below.
+
+DATA CONSENT INFORMATION:
+We may record your response data for educational teaching purposes and practicing data analysis and visualization. The data collected will be anonymized and stored in a public data repository.
+
+If you consent to the upload, please type "yes" in the box provided. If you choose not to provide consent, your test results will not be uploaded.
+
+ANONYMOUS USER ID GENERATION:
+To generate an anonymous 4-letter unique user identifier, please follow these instructions:
+
+Enter your anonymized ID.
+
+To generate an anonymous 4-letter unique user identifier, please enter:
+
+two first letters of your favoutite fruit
+two letters based on the initials (first and last name) of a favourite actor / actress
+Once you've generated your ID and inputted your ID into the answer box, proceed with the test.
+
+TEST INSTRUCTIONS:
+The test consists of 6 different images shown for eithr 10 or 20 seconds. Then, there are following questions about the colour, shape or position of the objects presented.
+You are required to enter your answers promptly.
+The test consists of 32 questions in total.
+After the test, your score and average time per question will be displayed., as well as your score compared to the ditribution of all the results collected before.
+
+RUNNING THE TEST: 
+1) Run (execute) the Python code
+2) As the code includes images, make sure to upload them in the same folder with the Jupiter notebook. Otherwisae, the program will give an error. 
+
+RESULTS UPLOAD (OPTIONAL)
+If you give a consent for uploading your score and personal data, your results will be sent to a Google Form.
+
+END
+
+Thank you for participating in the Memory test! If you encounter any issues or have questions, feel free to reach out to the test administrator via email karina.petrosian.22@ucl.ac.uk
