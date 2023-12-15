@@ -17,9 +17,10 @@ To generate an anonymous 4-letter unique user identifier, please follow these in
 Enter your anonymized ID.
 
 To generate an anonymous 4-letter unique user identifier, please enter:
-- the first two letters of your favorite fruit.
-- the first two letters of your birth city.
-- the first two letters of your favorite vegetable.
+
+two first letters of your favoutite fruit
+two letters based on the initials (first and last name) of a favourite actor / actress
+Once you've generated your ID and inputted your ID into the answer box, proceed with the test.
 
 Once you've generated your ID and inputted your ID into the answer box, proceed with the test.
 
